@@ -1,10 +1,8 @@
-# Innovation_Research
+# Innovation Research
 Research on Innovation in a GIG context
 
 
 ## Definitions
-
-### Innovation Research
 
 ### Critical Making
 - https://en.wikipedia.org/wiki/Critical_making
